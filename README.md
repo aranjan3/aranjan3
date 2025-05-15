@@ -8,7 +8,7 @@
 
 I'm a dedicated Machine Learning Engineer currently working at **Feynn Labs**, with a strong foundation in the AI-ML domain and a passion for solving real-world problems using data-driven approaches.
 
-I completed my **M.Tech from IIT Jammu in 2024** and ranked among the **top 3% in GATE**. With industry experience, academic research, and mentorship combined, I strive to contribute meaningfully to the evolving world of data science and artificial intelligence.
+I completed my **M.Tech from IIT Jammu in 2024** and ranked among the **top 3% in GATE-2022**. With industry experience, academic research, and mentorship combined, I strive to contribute meaningfully to the evolving world of data science and artificial intelligence.
 
 ---
 
