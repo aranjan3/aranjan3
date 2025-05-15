@@ -71,7 +71,7 @@ I completed my **M.Tech from IIT Jammu in 2024** and ranked among the **top 3% i
 
 ## 📫 How to Reach Me
 
-- 📧 Email: aranjan3@gmail.com  
+- 📧 Email: apoorv.ranjan1998@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/aranjan3](https://linkedin.com/in/aranjan3)  
 - 🧑‍💻 GitHub: [@aranjan3](https://github.com/aranjan3)
 
